@@ -48,6 +48,7 @@
 
 ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=flat&logo=affinity-photo&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=flat&logo=affinity-designer&logoColor=white)
+![Affinity Publisher](https://img.shields.io/static/v1?style=flat&message=Affinity+Publisher&color=C9284D&logo=Affinity+Publisher&logoColor=FFFFFF&label=)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
