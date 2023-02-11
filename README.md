@@ -1,5 +1,5 @@
 ## About Me:
-👋 Hi, I’m @jotaesteves<br>👀 I’m interested in Front-End development/enginering/qa automations and Design<br>🌱 I’m currently learning Typescript, SvelteJS and AstroJS<br>👨🏻‍💻 I’m looking to collaborate on Front-End projects (100% remote | part-time | contractor)<br>📫 How to reach me: mailto:jorgeestevesdev@gmail.com or https://www.linkedin.com/in/jorge-esteves-dev-design/ 
+👋 Hi, I’m Jorge Esteves @jotaesteves<br>👀 I’m interested in Front-End development/enginering/qa automations and Design<br>🌱 I’m currently learning Typescript, SvelteJS and AstroJS<br>👨🏻‍💻 I’m looking to collaborate on Front-End projects (100% remote | part-time | contractor)<br>📫 How to reach me: mailto:jorgeestevesdev@gmail.com or https://www.linkedin.com/in/jorge-esteves-dev-design/ 
 
 ## Tech Stack:
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
